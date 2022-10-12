@@ -133,7 +133,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   Navigator.push(context,
                       MaterialPageRoute(builder: (_) => const SpeedTest()));
                 },
-                child: const Text('Start Test'),
+                child: const Text(
+                    'Start http://paris.testdebit.info/ Testssahsgf'),
               ),
               const SizedBox(
                 height: 150,
